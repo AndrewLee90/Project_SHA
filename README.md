@@ -19,7 +19,7 @@ Project SHA는 사용자에게 PC 하드웨어의 상태를 분석하고, 업그
 
   ![CPU-Z](cpuz.jpg)
   ![cal1](calculator1.jpg)
- # ![cal2](calculator2.jpg)
+  ```![cal2](calculator2.jpg)```
   ![cal3](calculator3.jpg)
   
 - 실시간 가격 정보(다나와, 쿠팡 등)와 연동해 최적의 구매 시점을 제안
