@@ -1,11 +1,5 @@
 # Project SHA (Smart Hardware Advisor) 기획서
 
-![CPU-Z](cpuz.jpg)
-![cal1](calculator1.jpg)
-![cal2](calculator2.jpg)
-![cal3](calculator3.jpg)
-![price](realtimeprice.jpg)
-
 ## 1. 프로젝트 개요
 
 Project SHA (Smart Hardware Advisor)
@@ -16,7 +10,17 @@ Project SHA는 사용자에게 PC 하드웨어의 상태를 분석하고, 업그
 
 - PC 조립과 업그레이드 과정에서 발생하는 정보의 난해함과 복잡함을 해결
 - 사용자가 자신의 PC 하드웨어 상태를 한눈에 확인하고, 병목 현상 분석 및 특정 게임/작업 환경에서의 성능 예측을 통해 최적의 하드웨어 업그레이드를 결정하도록 지원
+  
+*** CPU-Z + Bottleneck test ***
+***         EXAMPLE         ***
+
+  ![CPU-Z](cpuz.jpg)
+  ![cal1](calculator1.jpg)
+  ![cal2](calculator2.jpg)
+  ![cal3](calculator3.jpg)
+  
 - 실시간 가격 정보(다나와, 쿠팡 등)와 연동해 최적의 구매 시점을 제안
+![price](realtimeprice.jpg)
 
 **타깃 사용자:**
 
