@@ -1,5 +1,11 @@
 # Project SHA (Smart Hardware Advisor) 기획서
 
+![CPU-Z](cpuz.jpg)
+![cal1](calculator1.jpg)
+![cal2](calculator2.jpg)
+![cal3](calculator3.jpg)
+![price](realtimeprice.jpg)
+
 ## 1. 프로젝트 개요
 
 Project SHA (Smart Hardware Advisor)
